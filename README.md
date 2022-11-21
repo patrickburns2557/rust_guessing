@@ -1,5 +1,4 @@
 # rust_guessing
-Baby's first rust program
 
 The program will generate a random integer between 1 and 100. 
 It will then prompt the player to enter a guess. 
